@@ -1,3 +1,4 @@
 |Browser|            Launch||         $URL| 
 |WaitandClick|waitAndClickByJS| | | 
 |WaitandClick|waitAndClickByXpath| | | 
+|WaitandClick|waitAndClickByName| | | 
