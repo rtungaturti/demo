@@ -1,2 +1,2 @@
 |Browser|            Launch||         $URL| 
-|Click|ClickOnDropDownLink| | | 
+|WaitandClick|waitAndClickByJS| | | 
