@@ -1,2 +1,2 @@
-|Click| ClickByJavascriptExecutorwithxpath| |  | 
-|Click| clickByJavascriptExecuterwithID| |  | 
+|Browser|            Launch||         $URL| 
+|Browser|     closeBrowser||| 
