@@ -1,2 +1,2 @@
-|Browser|            Launch||         $URL| 
-|Browser|     closeBrowser||| 
+|Verify|assertFieldIsNullByXpath| | | 
+|Verify|assertFieldIsNullByCSS| | | 
